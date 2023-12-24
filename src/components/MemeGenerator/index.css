@@ -1,0 +1,12 @@
+.select {
+  border: 1px solid #d7dfe9;
+  background-color: #fff;
+  width: 100%;
+  color: #5a7184;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-family: 'Roboto';
+  outline: none;
+}
